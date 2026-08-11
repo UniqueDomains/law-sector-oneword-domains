@@ -1,10 +1,10 @@
-# One-Word Law Domain Names Across 506 TLDs (124,000)
+# One-Word Law Domain Names Across 506 TLDs (124,483)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-124%2C000%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-124%2C483%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 123,602 one-word law domain names spanning 506 TLDs, with a median asking price of $469. Updated daily, it covers legal terminology, contract-related words, and law-adjacent industry terms across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **124,000 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **124,483 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 124,000 domains · **Median ask:** $450.80 · **High-demand under $2,500:** 401
+**Public extract:** 1,000 rows · **Live catalog:** 124,483 domains · **Median ask:** $449.28 · **High-demand under $2,500:** 401
 
-**Last updated:** 2026-08-06
+**Last updated:** 2026-08-11
 **Canonical page:** `https://unique.domains/domains/sector/law`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| code.realty      | available | $109.99   | $299          | high           | medium | 4      | namesilo                                                  |
-| bar.tienda       | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL                            |
-| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                  |
-| firm.democrat    | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
-| law.delivery     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                  |
-| firm.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                                  |
-| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                  |
-| firm.gmbh        | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                                                  |
-| firm.business    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| bar.attorney     | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
-| firm.hiv         | available | $184.99   | —             | high           | low    | 4      | name.com                                                  |
-| firm.company     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
-| bar.esq          | premium   | $811.25   | —             | high           | low    | 3      | name.com                                                  |
-| firm.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                  |
-| real.legal       | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 21                                         |
-| bar.lawyer       | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
-| firm.industries  | available | $17.49    | —             | high           | low    | 4      | name.com                                                  |
-| real.training    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| act.enterprises  | available | $5.99     | —             | high           | low    | 3      | name.com                                                |
+| firm.marketing   | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
+| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| bar.holdings     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                                |
+| act.llc          | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17                                       |
+| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                |
+| tax.enterprises  | available | $5.99     | —             | high           | medium | 3      | name.com                                                |
+| act.ltd          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
+| act.inc          | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
+| case.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                                |
+| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| case.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                |
+| tax.ltd          | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| act.limited      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| case.limited     | available | $14.99    | —             | high           | low    | 4      | name.com                                                |
+| case.pro         | resell    | —         | —             | high           | low    | 4      | GKG.NET, INC.                                           |
+| act.ltda         | premium   | $56.64    | $33.04        | high           | low    | 3      | namesilo                                                |
+| case.sarl        | available | $6.99     | $6.99         | high           | low    | 4      | namesilo                                                |
+| firm.agency      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 17                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 124,000 live domains                       |
+| 1,000-row public sample | 124,483 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 401 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
