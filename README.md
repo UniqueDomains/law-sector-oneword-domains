@@ -16,7 +16,7 @@ This selection includes 123,602 one-word law domain names spanning 506 TLDs, wit
 
 **Public extract:** 1,000 rows · **Live catalog:** 130,317 domains · **Median ask:** $434.21 · **High-demand under $2,500:** 401
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-08-16
 **Canonical page:** `https://unique.domains/domains/sector/law`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| code.realty        | available | $109.99   | $299          | high           | medium | 4      | namesilo                |
-| bar.asia           | resell    | —         | —             | high           | low    | 3      | Realtime Register B.V.  |
-| case.id            | premium   | $216.32   | $20.06        | high           | low    | 4      | namesilo                |
-| civil.adult        | available | $69.98    | $166.98       | low            | low    | 5      | namecheap               |
-| law.delivery       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC        |
-| deal.shop          | premium   | $12,500   | —             | medium         | low    | 4      | name.com                |
-| civil.ag           | available | $89       | $141.99       | low            | low    | 5      | name.com                |
-| law.luxury         | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC           |
-| firm.attorney      | premium   | $3,750    | —             | high           | low    | 4      | name.com                |
-| civil.auction      | available | $4.99     | $52.99        | low            | low    | 5      | name.com                |
-| call.solutions     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC             |
-| firm.lawyer        | premium   | $3,750    | —             | high           | low    | 4      | name.com                |
-| civil.barcelona    | available | $38.98    | $38.98        | low            | low    | 5      | namecheap               |
-| code.international | resell    | —         | —             | high           | medium | 4      | Unstoppable Domains Inc |
-| firm.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                |
-| civil.bargains     | available | $14.98    | $37.98        | low            | low    | 5      | namecheap               |
-| just.care          | resell    | —         | —             | high           | medium | 4      | Porkbun LLC             |
-| laws.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                |
-| civil.bayern       | available | $34.99    | $34.99        | low            | low    | 5      | namesilo                |
-| just.chat          | resell    | —         | —             | high           | medium | 4      | Porkbun LLC             |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| code.realty      | available | $109.99   | $299          | high           | medium | 4      | namesilo                                                  |
+| bar.tienda       | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL                            |
+| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                  |
+| firm.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                                  |
+| law.delivery     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                  |
+| firm.gmbh        | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                                                  |
+| law.luxury       | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC                                             |
+| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                  |
+| firm.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                  |
+| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| bar.attorney     | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| firm.industries  | available | $17.49    | —             | high           | low    | 4      | name.com                                                  |
+| just.now         | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
+| bar.esq          | premium   | $811.25   | —             | high           | low    | 3      | name.com                                                  |
+| firm.limited     | available | $14.99    | —             | high           | low    | 4      | name.com                                                  |
+| real.training    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| bar.lawyer       | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
+| firm.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
+| civil.bet        | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC - 46                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
