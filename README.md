@@ -16,7 +16,7 @@ This selection includes 123,602 one-word law domain names spanning 506 TLDs, wit
 
 **Public extract:** 1,000 rows · **Live catalog:** 130,317 domains · **Median ask:** $434.21 · **High-demand under $2,500:** 401
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/law`
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | law.delivery     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                  |
 | firm.gmbh        | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                                                  |
-| law.luxury       | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC                                             |
+| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                  |
 | firm.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                  |
-| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| just.now         | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
 | bar.attorney     | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
 | firm.industries  | available | $17.49    | —             | high           | low    | 4      | name.com                                                  |
-| just.now         | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
+| real.training    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | bar.esq          | premium   | $811.25   | —             | high           | low    | 3      | name.com                                                  |
 | firm.limited     | available | $14.99    | —             | high           | low    | 4      | name.com                                                  |
-| real.training    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| civil.bet        | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC - 46                                         |
 | bar.lawyer       | premium   | $500      | —             | high           | low    | 3      | name.com                                                  |
 | firm.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
-| civil.bet        | resell    | —         | —             | low            | low    | 5      | Sav.com, LLC - 46                                         |
+| civil.ink        | resell    | —         | —             | low            | low    | 5      | UM Domains Pte. Ltd.                                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
