@@ -14,7 +14,7 @@ This selection includes 123,602 one-word law domain names spanning 506 TLDs, wit
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **133,628 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 133,628 domains · **Median ask:** $426.31 · **High-demand under $2,500:** 401
+**Public extract:** 1,000 rows · **Live catalog:** 133,628 domains · **Median ask:** $426.24 · **High-demand under $2,500:** 401
 
 **Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/law`
