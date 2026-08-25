@@ -1,10 +1,10 @@
-# One-Word Law Domain Names Across 506 TLDs (136,602)
+# One-Word Law Domain Names Across 506 TLDs (137,722)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-136%2C602%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-137%2C722%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 123,602 one-word law domain names spanning 506 TLDs, with a median asking price of $469. Updated daily, it covers legal terminology, contract-related words, and law-adjacent industry terms across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **136,602 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **137,722 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 136,602 domains · **Median ask:** $419.02 · **High-demand under $2,500:** 399
+**Public extract:** 1,000 rows · **Live catalog:** 137,722 domains · **Median ask:** $416.52 · **High-demand under $2,500:** 399
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/sector/law`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| tax.enterprises | available | $5.99     | —             | high           | medium | 3      | name.com                                                           |
-| tax.law         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                                   |
-| act.attorney    | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                           |
-| firm.airforce   | available | $103.99   | $103.99       | high           | low    | 4      | namesilo                                                           |
-| tax.ltd         | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)            |
-| act.esq         | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                           |
-| firm.apartments | available | $19.99    | —             | high           | low    | 4      | name.com                                                           |
-| firm.business   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                                    |
-| act.lawyer      | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                           |
-| firm.army       | available | $19.99    | —             | high           | low    | 4      | name.com                                                           |
-| firm.company    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                                        |
-| bar.attorney    | premium   | $500      | —             | high           | low    | 3      | name.com                                                           |
-| firm.ceo        | available | $10.19    | $109.99       | high           | low    | 4      | namesilo                                                           |
-| firm.eu         | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
-| bar.esq         | premium   | $811.25   | —             | high           | low    | 3      | name.com                                                           |
-| firm.charity    | available | $5.99     | —             | high           | low    | 4      | name.com                                                           |
-| firm.io         | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc. DBA DomainCostClub.com          |
-| bar.lawyer      | premium   | $500      | —             | high           | low    | 3      | name.com                                                           |
-| firm.condos     | available | $58.99    | $58.99        | high           | low    | 4      | namesilo                                                           |
-| firm.solutions  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                                    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| advice.gmbh      | available | $45.99    | $45.99        | high           | low    | 6      | namesilo                                                |
+| act.enterprises  | available | $5.99     | —             | high           | low    | 3      | name.com                                                |
+| firm.marketing   | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
+| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| bar.holdings     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                                |
+| act.llc          | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17                                       |
+| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                |
+| law.gmbh         | available | $45.99    | $45.99        | high           | medium | 3      | namesilo                                                |
+| act.ltd          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
+| act.inc          | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
+| law.ltda         | available | $34.99    | $34.99        | high           | medium | 3      | namesilo                                                |
+| tax.co           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| tax.enterprises  | available | $5.99     | —             | high           | medium | 3      | name.com                                                |
+| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| act.limited      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| case.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                                |
+| tax.ltd          | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| act.ltda         | premium   | $56.64    | $33.04        | high           | low    | 3      | namesilo                                                |
+| case.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 136,602 live domains                       |
+| 1,000-row public sample | 137,722 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 399 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
