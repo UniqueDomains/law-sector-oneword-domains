@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| code.realty      | available | $109.99   | $299          | high           | medium | 4      | namesilo                       |
-| bar.tienda       | resell    | —         | —             | high           | low    | 3      | Soluciones Corporativas IP, SL |
-| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                       |
-| firm.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                       |
-| law.delivery     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC               |
-| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                       |
-| firm.gmbh        | available | $45.99    | $45.99        | high           | low    | 4      | namesilo                       |
-| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC               |
-| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                       |
-| firm.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                       |
-| rule.agency      | resell    | —         | —             | low            | low    | 4      | Sav.com, LLC - 35              |
-| bar.attorney     | premium   | $500      | —             | high           | low    | 3      | name.com                       |
-| firm.industries  | available | $17.49    | —             | high           | low    | 4      | name.com                       |
-| rule.ca          | resell    | —         | —             | low            | low    | 4      | BareMetal.com inc              |
-| bar.esq          | premium   | $811.25   | —             | high           | low    | 3      | name.com                       |
-| firm.limited     | available | $14.99    | —             | high           | low    | 4      | name.com                       |
-| rule.in          | resell    | —         | —             | low            | low    | 4      | Dynadot, LLC                   |
-| bar.lawyer       | premium   | $500      | —             | high           | low    | 3      | name.com                       |
-| firm.ryukyu      | available | $22.98    | —             | high           | low    | 4      | namecheap                      |
-| rule.media       | resell    | —         | —             | low            | low    | 4      | Porkbun LLC                    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| advice.gmbh      | available | $45.99    | $45.99        | high           | low    | 6      | namesilo                                                |
+| act.enterprises  | available | $5.99     | —             | high           | low    | 3      | name.com                                                |
+| firm.marketing   | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
+| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| bar.holdings     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                                |
+| act.llc          | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17                                       |
+| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                |
+| law.gmbh         | available | $45.99    | $45.99        | high           | medium | 3      | namesilo                                                |
+| act.ltd          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
+| act.inc          | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
+| law.ltda         | available | $34.99    | $34.99        | high           | medium | 3      | namesilo                                                |
+| tax.co           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
+| tax.enterprises  | available | $5.99     | —             | high           | medium | 3      | name.com                                                |
+| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
+| act.limited      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
+| case.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                                |
+| tax.ltd          | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| act.ltda         | premium   | $56.64    | $33.04        | high           | low    | 3      | namesilo                                                |
+| case.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
