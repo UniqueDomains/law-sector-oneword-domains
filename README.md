@@ -16,7 +16,7 @@ This selection includes 123,602 one-word law domain names spanning 506 TLDs, wit
 
 **Public extract:** 1,000 rows · **Live catalog:** 140,309 domains · **Median ask:** $412.08 · **High-demand under $2,500:** 399
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/law`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| advice.gmbh      | available | $45.99    | $45.99        | high           | low    | 6      | namesilo                                                |
-| act.enterprises  | available | $5.99     | —             | high           | low    | 3      | name.com                                                |
-| firm.marketing   | resell    | $9.99     | —             | high           | low    | 4      | GoDaddy.com, LLC                                        |
-| act.attorney     | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
-| bar.holdings     | available | $64.99    | $64.99        | high           | low    | 3      | namesilo                                                |
-| act.llc          | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC - 17                                       |
-| act.esq          | premium   | $1,623.75 | —             | high           | low    | 3      | name.com                                                |
-| law.gmbh         | available | $45.99    | $45.99        | high           | medium | 3      | namesilo                                                |
-| act.ltd          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| act.inc          | premium   | $2,061.50 | $2,660        | high           | low    | 3      | namesilo                                                |
-| law.ltda         | available | $34.99    | $34.99        | high           | medium | 3      | namesilo                                                |
-| tax.co           | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
-| act.lawyer       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo                                                |
-| tax.enterprises  | available | $5.99     | —             | high           | medium | 3      | name.com                                                |
-| tax.law          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
-| act.limited      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                |
-| case.enterprises | available | $5.99     | —             | high           | low    | 4      | name.com                                                |
-| tax.ltd          | resell    | —         | —             | high           | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| act.ltda         | premium   | $56.64    | $33.04        | high           | low    | 3      | namesilo                                                |
-| case.holdings    | available | $64.99    | $64.99        | high           | low    | 4      | namesilo                                                |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| code.realty        | available | $109.99   | $299          | high           | medium | 4      | namesilo                                                  |
+| bar.asia           | resell    | —         | —             | high           | low    | 3      | Realtime Register B.V.                                    |
+| case.id            | premium   | $216.32   | $20.06        | high           | low    | 4      | namesilo                                                  |
+| rule.academy       | available | $8.48     | $59.98        | low            | low    | 4      | namecheap                                                 |
+| law.delivery       | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| firm.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                  |
+| rule.associates    | available | $12.98    | $49.98        | low            | low    | 4      | namecheap                                                 |
+| law.luxury         | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC                                             |
+| laws.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                                  |
+| rule.boutique      | available | $2.98     | $41.98        | low            | low    | 4      | namecheap                                                 |
+| code.international | resell    | —         | —             | high           | medium | 4      | Unstoppable Domains Inc                                   |
+| real.fun           | premium   | $1,562.50 | —             | high           | medium | 4      | name.com                                                  |
+| rule.camera        | available | $61.98    | $72.98        | low            | low    | 4      | namecheap                                                 |
+| just.care          | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| rule.accountant    | premium   | $455      | $65           | low            | low    | 4      | namecheap                                                 |
+| rule.casino        | available | $6.98     | $191.98       | low            | low    | 4      | namecheap                                                 |
+| just.works         | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| rule.bid           | premium   | $1,300    | $130          | low            | low    | 4      | namecheap                                                 |
+| rule.coffee        | available | $6.98     | $47.98        | low            | low    | 4      | namecheap                                                 |
+| real.training      | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
