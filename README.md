@@ -1,10 +1,10 @@
-# One-Word Law Domain Names Across 506 TLDs (51,932)
+# One-Word Law Domain Names Across 506 TLDs (52,176)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-51%2C932%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-52%2C176%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 123,602 one-word law domain names spanning 506 TLDs, with a median asking price of $469. Updated daily, it covers legal terminology, contract-related words, and law-adjacent industry terms across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **51,932 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **52,176 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 51,932 domains · **Median ask:** $372.01 · **High-demand under $2,500:** 64
+**Public extract:** 1,000 rows · **Live catalog:** 52,176 domains · **Median ask:** $372.87 · **High-demand under $2,500:** 63
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-22
 **Canonical page:** `https://unique.domains/domains/sector/law`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| law.gmbh        | available | $45.99    | $45.99        | high           | medium | 3      | namesilo               |
-| bar.asia        | resell    | —         | —             | high           | low    | 3      | Realtime Register B.V. |
-| law.expert      | premium   | $1,040    | $1,040        | high           | medium | 3      | namecheap              |
-| law.holdings    | available | $64.99    | $64.99        | high           | medium | 3      | namesilo               |
-| law.company     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC       |
-| law.industries  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap              |
-| law.ltda        | available | $34.99    | $34.99        | high           | medium | 3      | namesilo               |
-| law.delivery    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC       |
-| law.limited     | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap              |
-| rule.associates | available | $12.98    | $49.98        | low            | low    | 4      | namecheap              |
-| law.luxury      | resell    | —         | —             | high           | medium | 3      | Go Daddy, LLC          |
-| law.llc         | premium   | $3,250    | $3,250        | high           | medium | 3      | namecheap              |
-| rule.cruises    | available | $54.98    | $68.98        | low            | low    | 4      | namecheap              |
-| just.now        | resell    | —         | —             | high           | low    | 4      | Porkbun LLC            |
-| law.sarl        | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap              |
-| rule.degree     | available | $54.98    | $66.98        | low            | low    | 4      | namecheap              |
-| just.works      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC            |
-| case.id         | premium   | $216.32   | $20.06        | high           | low    | 4      | namesilo               |
-| rule.exposed    | available | $22.98    | $28.98        | low            | low    | 4      | namecheap              |
-| rule.vc         | resell    | —         | —             | low            | low    | 4      | Dynadot Inc            |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| law.kitchen     | available | $83.98    | —             | high           | medium | 3      | namecheap   |
+| law.airforce    | available | $103.99   | $103.99       | high           | medium | 3      | namesilo    |
+| law.berlin      | resell    | $3,643.90 | $3,643.90     | high           | medium | 3      | namecheap   |
+| law.accountants | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap   |
+| law.apartments  | available | $19.99    | —             | high           | medium | 3      | name.com    |
+| just.bar        | resell    | $1,375.20 | —             | high           | medium | 4      | name.com    |
+| law.actor       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap   |
+| law.archi       | available | $24.99    | —             | high           | medium | 3      | name.com    |
+| just.contact    | resell    | $16.78    | —             | high           | medium | 4      | Dynadot Inc |
+| law.auction     | premium   | $1,300    | $1,300        | high           | medium | 3      | namecheap   |
+| law.audio       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo    |
+| just.cruises    | resell    | $82.50    | —             | high           | medium | 4      | name.com    |
+| law.autos       | premium   | $845      | $15.73        | high           | medium | 3      | namecheap   |
+| law.auto        | available | $1,999.99 | $2,199        | high           | medium | 3      | namesilo    |
+| just.diamonds   | resell    | $82.50    | —             | high           | medium | 4      | name.com    |
+| law.bargains    | premium   | $260      | $260          | high           | medium | 3      | namecheap   |
+| law.barcelona   | available | $38.98    | —             | high           | medium | 3      | namecheap   |
+| just.melbourne  | resell    | $53.98    | —             | high           | medium | 4      | namecheap   |
+| law.bayern      | premium   | $1,170.58 | —             | high           | medium | 3      | name.com    |
+| law.bingo       | available | $14.99    | —             | high           | medium | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 51,932 live domains                        |
+| 1,000-row public sample | 52,176 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 64 high-demand names under $2,500          |
+| Basic exported fields   | 63 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
