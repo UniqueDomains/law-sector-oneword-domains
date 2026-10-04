@@ -1,10 +1,10 @@
-# One-Word Law Domain Names Across 506 TLDs (83,814)
+# One-Word Law Domain Names Across 506 TLDs (86,141)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-83%2C814%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-86%2C141%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 123,602 one-word law domain names spanning 506 TLDs, with a median asking price of $469. Updated daily, it covers legal terminology, contract-related words, and law-adjacent industry terms across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **83,814 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **86,141 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 83,814 domains · **Median ask:** $247.85 · **High-demand under $2,500:** 33
+**Public extract:** 1,000 rows · **Live catalog:** 86,141 domains · **Median ask:** $242.65 · **High-demand under $2,500:** 27
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/law`
@@ -25,7 +25,7 @@ This selection includes 123,602 one-word law domain names spanning 506 TLDs, wit
 <p align="center">
   <a href="https://unique.domains/domains/sector/law?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./law.csv">CSV</a> / <a href="./law.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -69,19 +69,19 @@ print(df.head())
 | law.berlin      | resell    | $3,643.90 | $3,643.90     | high           | medium | 3      | namecheap                                                 |
 | law.accountants | premium   | $108.90   | $108.90       | high           | medium | 3      | dynadot                                                   |
 | law.apartments  | available | $45.74    | $45.74        | high           | medium | 3      | spaceship                                                 |
-| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC                                                 |
+| legislation.co  | resell    | $11,500   | $48.99        | high           | low    | 11     | Zhuimi Inc                                                |
 | law.actor       | premium   | $54.36    | $108.60       | high           | medium | 3      | porkbun                                                   |
 | law.archi       | available | $13.14    | $83           | high           | medium | 3      | spaceship                                                 |
-| law.app         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC                                                 |
 | law.auction     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                                  |
 | law.auto        | available | $2,070    | $2,950        | high           | medium | 3      | namecheap                                                 |
-| law.boston      | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                           |
+| law.app         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | law.band        | premium   | $31.25    | $31.25        | high           | medium | 3      | spaceship                                                 |
 | law.barcelona   | available | $25.04    | $25.04        | high           | medium | 3      | spaceship                                                 |
-| law.ca          | resell    | —         | —             | high           | medium | 3      | CanSpace Solutions Inc.                                   |
+| law.boston      | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                           |
 | law.bargains    | premium   | $220      | $220          | high           | medium | 3      | dynadot                                                   |
 | law.bingo       | available | $53.99    | $53.99        | high           | medium | 3      | namesilo                                                  |
-| law.cab         | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| law.ca          | resell    | —         | —             | high           | medium | 3      | CanSpace Solutions Inc.                                   |
 | law.bayern      | premium   | $1,000.68 | $250.17       | high           | medium | 3      | dynadot                                                   |
 | law.camera      | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                                  |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 83,814 live domains                                  |
+| 1,000-row public sample | 86,141 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 33 high-demand names under $2,500                    |
+| Basic exported fields   | 27 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/law?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_law_sector_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
