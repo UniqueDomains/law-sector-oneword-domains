@@ -1,10 +1,10 @@
-# One-Word Law Domain Names Across 506 TLDs (87,943)
+# One-Word Law Domain Names Across 506 TLDs (88,377)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-87%2C943%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-88%2C377%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 123,602 one-word law domain names spanning 506 TLDs, with a median asking price of $469. Updated daily, it covers legal terminology, contract-related words, and law-adjacent industry terms across mainstream and niche extensions alike.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **87,943 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **88,377 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 87,943 domains · **Median ask:** $240.44 · **High-demand under $2,500:** 33
+**Public extract:** 1,000 rows · **Live catalog:** 88,377 domains · **Median ask:** $240.16 · **High-demand under $2,500:** 33
 
 **Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/sector/law`
@@ -70,19 +70,19 @@ print(df.head())
 | law.berlin      | resell    | $3,643.90 | $3,643.90     | high           | medium | 3      | namecheap                                                 |
 | law.accountants | premium   | $108.90   | $108.90       | high           | medium | 3      | dynadot                                                   |
 | law.apartments  | available | $45.74    | $45.74        | high           | medium | 3      | spaceship                                                 |
-| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC                                                 |
+| lawyer.rest     | resell    | $19.99    | —             | high           | low    | 6      | NAMECHEAP                                                 |
 | law.actor       | premium   | $54.36    | $108.60       | high           | medium | 3      | porkbun                                                   |
 | law.archi       | available | $13.14    | $83           | high           | medium | 3      | spaceship                                                 |
-| law.app         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| legislation.co  | resell    | $11,500   | $48.99        | high           | low    | 11     | Zhuimi Inc                                                |
 | law.auction     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                                  |
 | law.auto        | available | $2,070    | $2,950        | high           | medium | 3      | namecheap                                                 |
-| law.boston      | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                           |
+| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC                                                 |
 | law.band        | premium   | $31.25    | $31.25        | high           | medium | 3      | spaceship                                                 |
 | law.barcelona   | available | $25.04    | $25.04        | high           | medium | 3      | spaceship                                                 |
-| law.ca          | resell    | —         | —             | high           | medium | 3      | CanSpace Solutions Inc.                                   |
+| law.app         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | law.bargains    | premium   | $220      | $220          | high           | medium | 3      | dynadot                                                   |
 | law.bingo       | available | $53.99    | $53.99        | high           | medium | 3      | namesilo                                                  |
-| law.cab         | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
+| law.boston      | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                                           |
 | law.bayern      | premium   | $1,000.68 | $250.17       | high           | medium | 3      | dynadot                                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 87,943 live domains                                  |
+| 1,000-row public sample | 88,377 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 33 high-demand names under $2,500                    |
 | No persistence          | Radar, saved search, and alerts                      |
