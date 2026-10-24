@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| legal.rich      | available | $94.99    | $1,999        | high           | low    | 5      | namesilo                                                  |
-| law.airforce    | available | $103.99   | $103.99       | high           | medium | 3      | namesilo                                                  |
-| law.berlin      | resell    | $3,643.90 | $3,643.90     | high           | medium | 3      | namecheap                                                 |
-| law.accountants | premium   | $108.90   | $108.90       | high           | medium | 3      | dynadot                                                   |
-| law.apartments  | available | $45.74    | $45.74        | high           | medium | 3      | spaceship                                                 |
-| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC                                                 |
-| law.actor       | premium   | $54.36    | $108.60       | high           | medium | 3      | porkbun                                                   |
-| law.archi       | available | $13.14    | $83           | high           | medium | 3      | spaceship                                                 |
-| law.app         | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| law.auction     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                                  |
-| law.auto        | available | $2,070    | $2,950        | high           | medium | 3      | namecheap                                                 |
-| law.ca          | resell    | —         | —             | high           | medium | 3      | CanSpace Solutions Inc.                                   |
-| law.band        | premium   | $31.25    | $31.25        | high           | medium | 3      | spaceship                                                 |
-| law.barcelona   | available | $25.04    | $25.04        | high           | medium | 3      | spaceship                                                 |
-| law.cab         | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.                                              |
-| law.bargains    | premium   | $220      | $220          | high           | medium | 3      | dynadot                                                   |
-| law.bingo       | available | $53.99    | $53.99        | high           | medium | 3      | namesilo                                                  |
-| law.casino      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| law.bayern      | premium   | $1,000.68 | $250.17       | high           | medium | 3      | dynadot                                                   |
-| law.camera      | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                                                  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
+| legal.rich      | available | $94.99    | $1,999        | high           | low    | 5      | namesilo                |
+| court.party     | premium   | $1,107    | $116          | high           | low    | 5      | namesilo                |
+| lawyer.storage  | available | $465.95   | $500.20       | high           | low    | 6      | spaceship               |
+| law.airforce    | available | $103.99   | $103.99       | high           | medium | 3      | namesilo                |
+| law.berlin      | resell    | $3,643.90 | $3,643.90     | high           | medium | 3      | namecheap               |
+| law.accountants | premium   | $108.90   | $108.90       | high           | medium | 3      | dynadot                 |
+| law.apartments  | available | $45.74    | $45.74        | high           | medium | 3      | spaceship               |
+| trial.trade     | resell    | $9.98     | —             | high           | medium | 5      | Dynadot Inc             |
+| law.actor       | premium   | $54.36    | $108.60       | high           | medium | 3      | porkbun                 |
+| law.archi       | available | $13.14    | $83           | high           | medium | 3      | spaceship               |
+| lawyer.rest     | resell    | $19.99    | —             | high           | low    | 6      | NAMECHEAP               |
+| law.auction     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                |
+| law.auto        | available | $2,070    | $2,950        | high           | medium | 3      | namecheap               |
+| courtroom.legal | resell    | $9.99     | —             | high           | low    | 9      | Global Domain Group LLC |
+| law.band        | premium   | $31.25    | $31.25        | high           | medium | 3      | spaceship               |
+| law.barcelona   | available | $25.04    | $25.04        | high           | medium | 3      | spaceship               |
+| legislation.co  | resell    | $11,500   | $48.99        | high           | low    | 11     | Zhuimi Inc              |
+| law.bargains    | premium   | $220      | $220          | high           | medium | 3      | dynadot                 |
+| law.bingo       | available | $53.99    | $53.99        | high           | medium | 3      | namesilo                |
+| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
