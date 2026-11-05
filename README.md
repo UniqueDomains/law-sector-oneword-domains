@@ -16,7 +16,7 @@ This selection includes 123,602 one-word law domain names spanning 506 TLDs, wit
 
 **Public extract:** 1,000 rows · **Live catalog:** 84,617 domains · **Median ask:** $244.21 · **High-demand under $2,500:** 1,394
 
-**Last updated:** 2026-11-01
+**Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/domains/sector/law`
 **Best for:** founders, investors, studios
 
@@ -69,19 +69,19 @@ print(df.head())
 | law.berlin      | resell    | $3,643.90 | $3,643.90     | high           | medium | 3      | namecheap               |
 | law.accountants | premium   | $108.90   | $108.90       | high           | medium | 3      | dynadot                 |
 | law.apartments  | available | $45.74    | $45.74        | high           | medium | 3      | spaceship               |
-| lawyer.rest     | resell    | $19.99    | —             | high           | low    | 6      | NAMECHEAP               |
+| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC               |
 | law.actor       | premium   | $54.36    | $108.60       | high           | medium | 3      | porkbun                 |
 | law.archi       | available | $13.14    | $83           | high           | medium | 3      | spaceship               |
-| law.agency      | resell    | —         | —             | high           | medium | 3      | eNom, LLC               |
+| law.ca          | resell    | —         | —             | high           | medium | 3      | CanSpace Solutions Inc. |
 | law.auction     | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                |
 | law.auto        | available | $2,070    | $2,950        | high           | medium | 3      | namecheap               |
-| law.ca          | resell    | —         | —             | high           | medium | 3      | CanSpace Solutions Inc. |
+| law.cab         | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.            |
 | law.band        | premium   | $31.25    | $31.25        | high           | medium | 3      | spaceship               |
 | law.barcelona   | available | $25.04    | $25.04        | high           | medium | 3      | spaceship               |
-| law.cab         | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.            |
+| law.casino      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC        |
 | law.bargains    | premium   | $220      | $220          | high           | medium | 3      | dynadot                 |
 | law.bingo       | available | $53.99    | $53.99        | high           | medium | 3      | namesilo                |
-| law.casino      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC        |
+| law.city        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC        |
 | law.bayern      | premium   | $1,000.68 | $250.17       | high           | medium | 3      | dynadot                 |
 | law.camera      | available | $58.99    | $58.99        | high           | medium | 3      | namesilo                |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-11-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Law Domain Names Across 506 TLDs*. Version 2026-11-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
